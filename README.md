@@ -14,3 +14,4 @@ Ejercicio de la kata:
 8. [Modulo 7 Kata](Modulo7Kata.ipynb)
 9. [Modulo 8 Kata](Modulo8Kata.ipynb)
 10. [Modulo 9 kata](Modulo9Kata.ipynb)
+11. [Modulo 10 Kata](Modulo10kata.md)
